@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/whitesmoke"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <!-- Stepper -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginBottom="32dp">
+        <View android:layout_width="24dp" android:layout_height="24dp" android:background="@drawable/stepper_done" />
+        <View android:layout_width="40dp" android:layout_height="2dp" android:background="@color/forest_green" />
+        <View android:layout_width="24dp" android:layout_height="24dp" android:background="@drawable/stepper_done" />
+        <View android:layout_width="40dp" android:layout_height="2dp" android:background="@color/forest_green" />
+        <View android:layout_width="24dp" android:layout_height="24dp" android:background="@drawable/stepper_done" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:text="✓"
+        android:background="@drawable/stepper_done"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="32sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Complaint Submitted!"
+        android:textColor="@color/forest_green"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your grievance has been successfully recorded."
+        android:layout_marginTop="4dp" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/result_box"
+            android:padding="20dp">
+
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Complaint Receipt" android:textStyle="bold" android:textSize="16sp" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#CCC" android:layout_marginVertical="12dp" />
+
+            <TextView android:id="@+id/tvConfID" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ID: GRV-2026-12345" />
+            <TextView android:id="@+id/tvConfName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name: John Doe" android:layout_marginTop="4dp" />
+            <TextView android:id="@+id/tvConfDept" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Dept: Transport Dept" android:layout_marginTop="4dp" />
+            <TextView android:id="@+id/tvConfDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Date: Oct 25, 2026" android:layout_marginTop="4dp" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/btnTrack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Track Complaint"
+        android:backgroundTint="@color/midnight_blue"
+        android:textColor="@color/white"
+        android:layout_marginTop="24dp" />
+
+    <Button
+        android:id="@+id/btnFileAnother"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="File Another Complaint"
+        android:backgroundTint="@color/royal_blue"
+        android:textColor="@color/white"
+        android:layout_marginTop="12dp" />
+
+</LinearLayout>
