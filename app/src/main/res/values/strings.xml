@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AI Complaint Analyzer</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+</resources>

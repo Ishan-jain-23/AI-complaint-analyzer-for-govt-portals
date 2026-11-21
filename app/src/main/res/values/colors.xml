@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="midnight_blue">#191970</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="medium_sea_green">#3CB371</color>
+    <color name="forest_green">#228B22</color>
+    <color name="light_gray">#D3D3D3</color>
+
+    <color name="badge_high_bg">#FFB6C1</color>
+    <color name="badge_high_text">#DC143C</color>
+    <color name="badge_medium_bg">#F0E68C</color>
+    <color name="badge_medium_text">#B8860B</color>
+    <color name="badge_low_bg">#90EE90</color>
+    <color name="badge_low_text">#006400</color>
+</resources>
