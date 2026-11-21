@@ -1,0 +1,721 @@
+complaint,category,urgency
+"There has been no electricity in Sector 9 since a month, please restore it soon.",electricity,medium
+The electricity office in Indira Colony takes too long to respond to simple billing queries.,electricity,low
+"The bridge near MG Road has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+Auto rickshaws in Milan Vihar overcharge passengers and no action is taken.,roads_transport,medium
+"Minor leakage from a public tap in MG Road, not urgent but should be fixed.",water_supply,low
+Would like information on the next water tanker visit to Krishna Colony.,water_supply,low
+Traffic lights at the Gandhi Nagar junction have not worked properly for ten days.,roads_transport,medium
+Minor delay in getting medical certificates issued at the Indira Colony health center.,healthcare,low
+Buses on the Civil Lines route are always late and the stops are in poor condition.,roads_transport,medium
+Would like more information boards in local language at Civil Lines hospital.,healthcare,low
+Garbage has piled up at the Civil Lines market for a month and is now blocking the entrance.,sanitation,high
+"An electric pole has fallen on the road in Ward 12 and wires are exposed, someone could get electrocuted.",electricity,high
+"A dead animal has been lying near the Nehru Colony garbage dump for four days, causing severe health risk.",sanitation,high
+Staff at the Rajiv Nagar health center is uncooperative and often careless with patients.,healthcare,medium
+Requesting a footpath extension along the New Basti market road.,roads_transport,low
+Staff at the Gandhi Nagar health center is uncooperative and often careless with patients.,healthcare,medium
+Would like fogging to be scheduled in Ward 12 as a preventive measure.,sanitation,low
+Mosquitoes and flies are increasing in Patel Nagar due to poor cleanliness.,sanitation,medium
+Would like an SMS alert system for water supply timings in Rose Garden.,water_supply,low
+"Sewage appears to be mixing with drinking water in Patel Nagar, urgent testing needed.",water_supply,high
+The electricity office in Rajiv Nagar takes too long to respond to simple billing queries.,electricity,low
+Doctors at the Indira Colony government hospital regularly don't show up on time.,healthcare,medium
+A broken road divider in Sector 5 is causing dangerous head-on near-misses daily.,roads_transport,high
+My elderly mother in Ashok Vihar has been denied her ration for 24 hours and has no food at home.,ration_aadhar,high
+Requesting clearer signage at the Vivek Vihar Aadhar center for new visitors.,ration_aadhar,low
+Requesting extended OPD hours at the Vivek Vihar clinic for working patients.,healthcare,low
+"A deep pothole on the main road in Lajpat Nagar caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+Requesting extended OPD hours at the Lajpat Nagar clinic for working patients.,healthcare,low
+"An electric pole has fallen on the road in Indira Colony and wires are exposed, someone could get electrocuted.",electricity,high
+Requesting a pedestrian crossing to be marked near the Vivek Vihar school.,roads_transport,low
+Could the Nehru Colony ration office extend working hours by an hour?,ration_aadhar,low
+"An open manhole on the Sector 5 road has already injured a pedestrian, needs immediate barricading.",roads_transport,high
+A broken road divider in Nehru Colony is causing dangerous head-on near-misses daily.,roads_transport,high
+Contaminated water is mixing with the drainage near New Basti and children are falling sick.,sanitation,high
+Vaccines have been out of stock at the Green Park primary health center for two weeks.,healthcare,medium
+Contaminated water is mixing with the drainage near Civil Lines and children are falling sick.,sanitation,high
+Mosquitoes and flies are increasing in Rajendra Nagar due to poor cleanliness.,sanitation,medium
+The oxygen supply at Vivek Vihar primary health center has run out during an emergency.,healthcare,high
+Would like an SMS alert system for water supply timings in Subhash Nagar.,water_supply,low
+Would like additional signage indicating speed limits in Rajiv Nagar.,roads_transport,low
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Krishna Colony.",ration_aadhar,high
+There has been no water supply in Green Park for four days and elderly residents are struggling badly.,water_supply,high
+"My father is on oxygen support at home in Nehru Colony and we've had no power for four days, this is a medical emergency.",electricity,high
+"An overflowing open drain in Vivek Vihar has flooded the main road, urgent cleanup needed.",sanitation,high
+Doctors at the Shanti Nagar government hospital regularly don't show up on time.,healthcare,medium
+Would like information on the next water tanker visit to Green Park.,water_supply,low
+The ration shop in Subhash Nagar is frequently closed or out of stock.,ration_aadhar,medium
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Rajendra Nagar.",ration_aadhar,high
+Garbage has not been picked up in Ashok Vihar for 48 hours.,sanitation,medium
+Garbage has not been picked up in Milan Vihar for 24 hours.,sanitation,medium
+Requesting an additional dustbin to be placed near the Sun City park.,sanitation,low
+Could someone confirm the schedule for planned maintenance in Green Park this month?,electricity,low
+Traffic lights at the Lajpat Nagar junction have not worked properly for two days.,roads_transport,medium
+Staff at the Old City health center is uncooperative and often careless with patients.,healthcare,medium
+Streetlights are out on the Old City highway stretch and there have been two accidents this week.,roads_transport,high
+Contaminated water is mixing with the drainage near Milan Vihar and children are falling sick.,sanitation,high
+Staff at the Vivek Vihar health center is uncooperative and often careless with patients.,healthcare,medium
+"Minor litter accumulation near the Milan Vihar bus stop, needs occasional cleanup.",sanitation,low
+The sweeper has not visited New Basti in two days.,sanitation,medium
+Could someone confirm the schedule for planned maintenance in Patel Nagar this month?,electricity,low
+Voltage fluctuations in New Basti have already damaged two of our appliances this month.,electricity,medium
+The water supply in Indira Colony has been irregular and unpredictable for five days.,water_supply,medium
+The hospital in Vivek Vihar sent us away without treatment even though it was a medical emergency.,healthcare,high
+Vaccines have been out of stock at the Rajendra Nagar primary health center for a week.,healthcare,medium
+The helpline number for ration services in Krishna Colony is always busy or unreachable.,ration_aadhar,medium
+The oxygen supply at Indira Colony primary health center has run out during an emergency.,healthcare,high
+The compost pit in Rajiv Nagar needs periodic monitoring.,sanitation,low
+Our documents keep getting rejected at the Milan Vihar Aadhar office without clear reasons.,ration_aadhar,medium
+Contaminated water is mixing with the drainage near Indira Colony and children are falling sick.,sanitation,high
+Would like fogging to be scheduled in Sector 5 as a preventive measure.,sanitation,low
+"The bridge near Sector 5 has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+"A dead animal has been lying near the Ram Nagar garbage dump for a month, causing severe health risk.",sanitation,high
+"Stray animals are roaming near the garbage dump in Gandhi Nagar, please address it.",sanitation,medium
+Requesting an SMS update system for ration card status in Vivek Vihar.,ration_aadhar,low
+Requesting extended OPD hours at the Civil Lines clinic for working patients.,healthcare,low
+Sewage water is overflowing into homes in Shanti Nagar and residents fear disease outbreak.,sanitation,high
+"Sewage appears to be mixing with drinking water in Civil Lines, urgent testing needed.",water_supply,high
+"The water meter reading in Nehru Colony seems inconsistent, please verify.",water_supply,low
+"There has been no electricity in Rajendra Nagar since 48 hours, please restore it soon.",electricity,medium
+Cleanliness at the Civil Lines government hospital has been very poor for a week.,healthcare,medium
+Water tankers have not come to Indira Colony for three days and households have run completely dry.,water_supply,high
+There is no proper medicine supply at the Ward 12 clinic for over a week now.,healthcare,medium
+"Minor litter accumulation near the Sector 9 bus stop, needs occasional cleanup.",sanitation,low
+"The electricity bill for Ward 12 this month seems higher than usual, please review the meter reading.",electricity,low
+There is a strong smell in Lajpat Nagar due to open drains that need cleaning.,sanitation,medium
+The ration shop in Nehru Colony is frequently closed or out of stock.,ration_aadhar,medium
+The oxygen supply at Milan Vihar primary health center has run out during an emergency.,healthcare,high
+"There has been no electricity in Rajiv Nagar since two days, please restore it soon.",electricity,medium
+Could the Ram Nagar clinic display doctor availability timings more clearly?,healthcare,low
+"An overflowing open drain in Rose Garden has flooded the main road, urgent cleanup needed.",sanitation,high
+Requesting a pedestrian crossing to be marked near the Milan Vihar school.,roads_transport,low
+An elderly disabled person in Sector 9 was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Cleanliness at the Sector 5 government hospital has been very poor for a month.,healthcare,medium
+The hospital in Vikas Puri sent us away without treatment even though it was a medical emergency.,healthcare,high
+A pregnant woman in Ward 12 was refused admission at the government hospital despite being in labor.,healthcare,high
+Buses on the Sun City route are always late and the stops are in poor condition.,roads_transport,medium
+"Minor spelling error on my ration card issued in Subhash Nagar, need it corrected.",ration_aadhar,low
+"The bridge near Model Town has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+Auto rickshaws in Rose Garden overcharge passengers and no action is taken.,roads_transport,medium
+The tap water in Indira Colony is muddy and smells bad.,water_supply,medium
+The Aadhar center staff in Vivek Vihar is rude and unhelpful to visitors.,ration_aadhar,medium
+Would like fogging to be scheduled in Shanti Nagar as a preventive measure.,sanitation,low
+"The water meter reading in Old City seems inconsistent, please verify.",water_supply,low
+The hospital in Nehru Colony sent us away without treatment even though it was a medical emergency.,healthcare,high
+"Streetlights in Saraswati Vihar have not worked for five days, making it unsafe to walk at night.",electricity,medium
+The public toilet in Shastri Nagar could use better maintenance.,sanitation,low
+Road repair work in Milan Vihar was started four days ago and never completed.,roads_transport,medium
+The public toilet in Ward 12 could use better maintenance.,sanitation,low
+There is no ambulance available in Civil Lines and a patient is in critical condition right now.,healthcare,high
+Would like additional signage indicating speed limits in Ram Nagar.,roads_transport,low
+The doctor on duty at the Sun City hospital has been absent for several days during emergency hours.,healthcare,high
+Requesting an SMS update system for ration card status in Civil Lines.,ration_aadhar,low
+"Children were playing near an open electric box in Lake View Colony with exposed wiring, please fix urgently.",electricity,high
+The electricity office in Gandhi Nagar takes too long to respond to simple billing queries.,electricity,low
+There is a visible water leakage on the street in Sector 9 for several days.,water_supply,medium
+Voltage fluctuations in Ward 12 have already damaged two of our appliances this month.,electricity,medium
+"The transformer near Rajiv Nagar keeps tripping every few hours, causing repeated outages.",electricity,medium
+The tap water in Sun City is muddy and smells bad.,water_supply,medium
+Garbage has piled up at the Lajpat Nagar market for five days and is now blocking the entrance.,sanitation,high
+Voltage fluctuations in Civil Lines have already damaged two of our appliances this month.,electricity,medium
+An elderly disabled person in Silver Oaks was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Would like information on the next water tanker visit to Gandhi Nagar.,water_supply,low
+"The electricity bill for Milan Vihar this month seems higher than usual, please review the meter reading.",electricity,low
+Water tankers in Shanti Nagar are not coming on time for over a week.,water_supply,medium
+The doctor on duty at the Shastri Nagar hospital has been absent for four days during emergency hours.,healthcare,high
+"Power cuts are happening every day in Rajendra Nagar for several days now, disrupting work from home.",electricity,medium
+There is a strong smell in Sector 9 due to open drains that need cleaning.,sanitation,medium
+There is no proper transport facility connecting Nehru Colony to the main city.,roads_transport,medium
+Requesting a footpath extension along the Vikas Puri market road.,roads_transport,low
+There has been no water supply in Indira Colony for 48 hours and elderly residents are struggling badly.,water_supply,high
+"Load shedding in Lajpat Nagar happens without any prior notice, we can't plan our day.",electricity,medium
+There is no proper medicine supply at the Indira Colony clinic for two weeks now.,healthcare,medium
+"Minor leakage from a public tap in Nehru Colony, not urgent but should be fixed.",water_supply,low
+Would like more information boards in local language at Rajendra Nagar hospital.,healthcare,low
+Staff at the Model Town health center is uncooperative and often careless with patients.,healthcare,medium
+"A short circuit near the Ram Nagar market has already caused one small fire, urgent action needed.",electricity,high
+Voltage fluctuations in Patel Nagar have already damaged two of our appliances this month.,electricity,medium
+"Children were playing near an open electric box in Milan Vihar with exposed wiring, please fix urgently.",electricity,high
+"Minor spelling error on my ration card issued in Vikas Puri, need it corrected.",ration_aadhar,low
+Requesting an additional dustbin to be placed near the Rajendra Nagar park.,sanitation,low
+"There is minor flickering of lights in Subhash Nagar, not urgent but should be checked eventually.",electricity,low
+Could someone confirm the schedule for planned maintenance in Ram Nagar this month?,electricity,low
+There is no ambulance available in Sun City and a patient is in critical condition right now.,healthcare,high
+Requesting better signage for the water collection point in New Basti.,water_supply,low
+"Minor fading of lane markings on the Shastri Nagar road, could be repainted.",roads_transport,low
+The bus stop shelter in Patel Nagar could use a fresh coat of paint.,roads_transport,low
+There is no proper medicine supply at the Ram Nagar clinic for over a week now.,healthcare,medium
+Aadhar correction requests in Sun City take a week with no proper guidance.,ration_aadhar,medium
+"A deep pothole on the main road in Silver Oaks caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+The water supply in Saraswati Vihar has been irregular and unpredictable for ten days.,water_supply,medium
+Would like additional signage indicating speed limits in Silver Oaks.,roads_transport,low
+"The water meter reading in Ward 12 seems inconsistent, please verify.",water_supply,low
+There is no ambulance available in Sector 5 and a patient is in critical condition right now.,healthcare,high
+The Aadhar center staff in Rose Garden is rude and unhelpful to visitors.,ration_aadhar,medium
+Requesting an additional streetlight to be installed near the New Basti park.,electricity,low
+The tap water in Shastri Nagar is muddy and smells bad.,water_supply,medium
+The tap water in Rajiv Nagar is visibly contaminated and several people have fallen sick.,water_supply,high
+"We cannot access any welfare scheme because Aadhar linking failed in Ram Nagar, and we urgently need medical aid.",ration_aadhar,high
+"Our meter in Rajendra Nagar hasn't been read by anyone in months, billing seems estimated.",electricity,low
+Requesting an additional dustbin to be placed near the Green Park park.,sanitation,low
+"A deep pothole on the main road in Model Town caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+The electricity office in Sector 9 takes too long to respond to simple billing queries.,electricity,low
+Would like an online tracking option for Aadhar applications from Ram Nagar.,ration_aadhar,low
+"Power cuts are happening every day in Green Park for four days now, disrupting work from home.",electricity,medium
+Would like additional signage indicating speed limits in Shanti Nagar.,roads_transport,low
+Requesting a fixed weekly schedule for water supply timing in Gandhi Nagar.,water_supply,low
+Would like more information boards in local language at Gandhi Nagar hospital.,healthcare,low
+"An overflowing open drain in Indira Colony has flooded the main road, urgent cleanup needed.",sanitation,high
+Would like additional signage indicating speed limits in Green Park.,roads_transport,low
+Would like information on the next water tanker visit to MG Road.,water_supply,low
+Aadhar correction requests in Vikas Puri take five days with no proper guidance.,ration_aadhar,medium
+Requesting better signage for the water collection point in Ram Nagar.,water_supply,low
+"A dead animal has been lying near the Rajendra Nagar garbage dump for two days, causing severe health risk.",sanitation,high
+"Minor leakage from a public tap in Sector 5, not urgent but should be fixed.",water_supply,low
+Requesting an additional dustbin to be placed near the Patel Nagar park.,sanitation,low
+"Minor spelling error on my ration card issued in New Basti, need it corrected.",ration_aadhar,low
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Rose Garden.",ration_aadhar,high
+"Children were playing near an open electric box in Sector 5 with exposed wiring, please fix urgently.",electricity,high
+"Children were playing near an open electric box in Rajendra Nagar with exposed wiring, please fix urgently.",electricity,high
+Buses on the Sector 9 route are always late and the stops are in poor condition.,roads_transport,medium
+Contaminated water is mixing with the drainage near Ward 12 and children are falling sick.,sanitation,high
+Our documents keep getting rejected at the Indira Colony Aadhar office without clear reasons.,ration_aadhar,medium
+Voltage fluctuations in Shastri Nagar have already damaged two of our appliances this month.,electricity,medium
+"Despite repeated complaints, the water issue in Rose Garden is not resolved.",water_supply,medium
+Auto rickshaws in Green Park overcharge passengers and no action is taken.,roads_transport,medium
+"Stray animals are roaming near the garbage dump in Vivek Vihar, please address it.",sanitation,medium
+Would like information on the next water tanker visit to Vivek Vihar.,water_supply,low
+"Minor litter accumulation near the Vivek Vihar bus stop, needs occasional cleanup.",sanitation,low
+I applied for a ration card in Vikas Puri two days ago and haven't received any response.,ration_aadhar,medium
+There is a strong smell in Ashok Vihar due to open drains that need cleaning.,sanitation,medium
+Water tankers in Ram Nagar are not coming on time for 24 hours.,water_supply,medium
+"There is a live wire hanging near the Ram Nagar school gate, please send someone immediately, it's extremely dangerous.",electricity,high
+The public transport schedule for New Basti route is not displayed clearly.,roads_transport,low
+"Sewage appears to be mixing with drinking water in Lake View Colony, urgent testing needed.",water_supply,high
+The public toilet in Krishna Colony could use better maintenance.,sanitation,low
+"The water meter reading in Sector 9 seems inconsistent, please verify.",water_supply,low
+"Our meter in Rose Garden hasn't been read by anyone in months, billing seems estimated.",electricity,low
+Garbage has piled up at the Civil Lines market for 24 hours and is now blocking the entrance.,sanitation,high
+"Minor leakage from a public tap in Silver Oaks, not urgent but should be fixed.",water_supply,low
+The ration shop in Silver Oaks is frequently closed or out of stock.,ration_aadhar,medium
+There has been no water supply in Shastri Nagar for ten days and elderly residents are struggling badly.,water_supply,high
+"Stray animals are roaming near the garbage dump in Rose Garden, please address it.",sanitation,medium
+The Lajpat Nagar clinic pharmacy counter closes a bit early most days.,healthcare,low
+There is no ambulance available in Ashok Vihar and a patient is in critical condition right now.,healthcare,high
+"Minor spelling error on my ration card issued in Sun City, need it corrected.",ration_aadhar,low
+Requesting clearer signage at the Sun City Aadhar center for new visitors.,ration_aadhar,low
+"Sewage appears to be mixing with drinking water in Silver Oaks, urgent testing needed.",water_supply,high
+Vaccines have been out of stock at the Vikas Puri primary health center for three days.,healthcare,medium
+The Aadhar center staff in Subhash Nagar is rude and unhelpful to visitors.,ration_aadhar,medium
+The hospital in Sector 9 sent us away without treatment even though it was a medical emergency.,healthcare,high
+The ration shop in MG Road has been shut for 24 hours and families here have no supplies left.,ration_aadhar,high
+"Despite repeated complaints, the water issue in Saraswati Vihar is not resolved.",water_supply,medium
+Our documents keep getting rejected at the Rajendra Nagar Aadhar office without clear reasons.,ration_aadhar,medium
+Requesting an additional streetlight to be installed near the Indira Colony park.,electricity,low
+The tap water in Old City is muddy and smells bad.,water_supply,medium
+Doctors at the Patel Nagar government hospital regularly don't show up on time.,healthcare,medium
+Could the New Basti ration office extend working hours by an hour?,ration_aadhar,low
+Contaminated water is mixing with the drainage near MG Road and children are falling sick.,sanitation,high
+Would like information on the next water tanker visit to Old City.,water_supply,low
+The sweeper has not visited Old City in over a week.,sanitation,medium
+The sweeper has not visited Shastri Nagar in three days.,sanitation,medium
+The roads in Subhash Nagar are full of potholes and have been dangerous for two days.,roads_transport,medium
+There is a visible water leakage on the street in Subhash Nagar for a week.,water_supply,medium
+Requesting an SMS update system for ration card status in Ashok Vihar.,ration_aadhar,low
+Sewage water is overflowing into homes in Ashok Vihar and residents fear disease outbreak.,sanitation,high
+The public transport schedule for Civil Lines route is not displayed clearly.,roads_transport,low
+"A dead animal has been lying near the Krishna Colony garbage dump for four days, causing severe health risk.",sanitation,high
+"My father is on oxygen support at home in Old City and we've had no power for a week, this is a medical emergency.",electricity,high
+The waiting area at the Ram Nagar hospital could use more seating and fans.,healthcare,low
+The transformer in Ashok Vihar is sparking badly and residents fear it could catch fire.,electricity,high
+The roads in Shanti Nagar are full of potholes and have been dangerous for a week.,roads_transport,medium
+The ration shop in Green Park is frequently closed or out of stock.,ration_aadhar,medium
+My elderly mother in Subhash Nagar has been denied her ration for two days and has no food at home.,ration_aadhar,high
+The oxygen supply at Silver Oaks primary health center has run out during an emergency.,healthcare,high
+The public toilet in Ram Nagar could use better maintenance.,sanitation,low
+Requesting an additional streetlight to be installed near the Rajendra Nagar park.,electricity,low
+"The bridge near Indira Colony has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+The roads in Sun City are full of potholes and have been dangerous for over a week.,roads_transport,medium
+The Ashok Vihar clinic pharmacy counter closes a bit early most days.,healthcare,low
+"There has been no electricity in Vikas Puri since a month, please restore it soon.",electricity,medium
+"Sewage appears to be mixing with drinking water in Sector 5, urgent testing needed.",water_supply,high
+Would like information on the next water tanker visit to Ward 12.,water_supply,low
+"My father is on oxygen support at home in Ashok Vihar and we've had no power for a week, this is a medical emergency.",electricity,high
+"A dead animal has been lying near the Krishna Colony garbage dump for over a week, causing severe health risk.",sanitation,high
+The bus stop shelter in Vikas Puri could use a fresh coat of paint.,roads_transport,low
+We waited for a week for lab test results at the Model Town hospital with no update.,healthcare,medium
+There is no ambulance available in Green Park and a patient is in critical condition right now.,healthcare,high
+"Our meter in Green Park hasn't been read by anyone in months, billing seems estimated.",electricity,low
+Requesting better signage for the water collection point in Old City.,water_supply,low
+"An open manhole on the Lake View Colony road has already injured a pedestrian, needs immediate barricading.",roads_transport,high
+Doctors at the Milan Vihar government hospital regularly don't show up on time.,healthcare,medium
+The bus stop shelter in Sector 5 could use a fresh coat of paint.,roads_transport,low
+The bus stop shelter in Subhash Nagar could use a fresh coat of paint.,roads_transport,low
+Could the Sector 5 clinic display doctor availability timings more clearly?,healthcare,low
+My relative collapsed and the Shastri Nagar clinic had no staff on duty to help.,healthcare,high
+My elderly mother in Saraswati Vihar has been denied her ration for 24 hours and has no food at home.,ration_aadhar,high
+A major pipeline burst in Old City has flooded the street and cut off all water supply.,water_supply,high
+My relative collapsed and the Rajiv Nagar clinic had no staff on duty to help.,healthcare,high
+Could someone confirm the schedule for planned maintenance in Shastri Nagar this month?,electricity,low
+There is no proper medicine supply at the Shanti Nagar clinic for two days now.,healthcare,medium
+Minor delay in getting medical certificates issued at the Civil Lines health center.,healthcare,low
+Streetlights are out on the MG Road highway stretch and there have been two accidents this week.,roads_transport,high
+"A dead animal has been lying near the Ram Nagar garbage dump for over a week, causing severe health risk.",sanitation,high
+"Minor fading of lane markings on the Vivek Vihar road, could be repainted.",roads_transport,low
+The tap water in Sun City is visibly contaminated and several people have fallen sick.,water_supply,high
+"Minor litter accumulation near the Vikas Puri bus stop, needs occasional cleanup.",sanitation,low
+Voltage fluctuations in Sector 9 have already damaged two of our appliances this month.,electricity,medium
+Would like an online tracking option for Aadhar applications from Silver Oaks.,ration_aadhar,low
+Minor delay in getting medical certificates issued at the Subhash Nagar health center.,healthcare,low
+"My father is on oxygen support at home in Rose Garden and we've had no power for three days, this is a medical emergency.",electricity,high
+The ration shop in MG Road has been shut for a week and families here have no supplies left.,ration_aadhar,high
+"The bridge near Shastri Nagar has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+A major pipeline burst in Civil Lines has flooded the street and cut off all water supply.,water_supply,high
+Our documents keep getting rejected at the Vikas Puri Aadhar office without clear reasons.,ration_aadhar,medium
+"The bridge near Ram Nagar has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+The Saraswati Vihar clinic pharmacy counter closes a bit early most days.,healthcare,low
+Requesting waste segregation bins to be introduced in Model Town.,sanitation,low
+A broken road divider in Shastri Nagar is causing dangerous head-on near-misses daily.,roads_transport,high
+There is a visible water leakage on the street in Krishna Colony for several days.,water_supply,medium
+The tap water in Ward 12 is visibly contaminated and several people have fallen sick.,water_supply,high
+Staff at the Nehru Colony health center is uncooperative and often careless with patients.,healthcare,medium
+The sweeper has not visited Rajendra Nagar in three days.,sanitation,medium
+The compost pit in Lake View Colony needs periodic monitoring.,sanitation,low
+Water pressure in Ram Nagar is so low that we can't fill our tanks.,water_supply,medium
+Would like fogging to be scheduled in Sector 9 as a preventive measure.,sanitation,low
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Rajiv Nagar.",ration_aadhar,high
+There is a visible water leakage on the street in Vivek Vihar for a month.,water_supply,medium
+Contaminated water is mixing with the drainage near Ram Nagar and children are falling sick.,sanitation,high
+Would like fogging to be scheduled in Old City as a preventive measure.,sanitation,low
+The tap water in MG Road is visibly contaminated and several people have fallen sick.,water_supply,high
+Auto rickshaws in Vivek Vihar overcharge passengers and no action is taken.,roads_transport,medium
+The bus stop shelter in Model Town could use a fresh coat of paint.,roads_transport,low
+My elderly mother in Silver Oaks has been denied her ration for several days and has no food at home.,ration_aadhar,high
+Dustbins in Ram Nagar are always overflowing and attracting pests.,sanitation,medium
+The water supply in Indira Colony has been irregular and unpredictable for three days.,water_supply,medium
+Would like an online tracking option for Aadhar applications from Model Town.,ration_aadhar,low
+The Aadhar center staff in Green Park is rude and unhelpful to visitors.,ration_aadhar,medium
+Contaminated water is mixing with the drainage near Patel Nagar and children are falling sick.,sanitation,high
+My elderly mother in Krishna Colony has been denied her ration for 48 hours and has no food at home.,ration_aadhar,high
+There is no proper medicine supply at the Saraswati Vihar clinic for 24 hours now.,healthcare,medium
+There is no ambulance available in Old City and a patient is in critical condition right now.,healthcare,high
+Traffic lights at the Indira Colony junction have not worked properly for two days.,roads_transport,medium
+The tap water in Nehru Colony is visibly contaminated and several people have fallen sick.,water_supply,high
+"Minor fading of lane markings on the Gandhi Nagar road, could be repainted.",roads_transport,low
+"Our meter in Ashok Vihar hasn't been read by anyone in months, billing seems estimated.",electricity,low
+The helpline number for ration services in Subhash Nagar is always busy or unreachable.,ration_aadhar,medium
+Auto rickshaws in MG Road overcharge passengers and no action is taken.,roads_transport,medium
+We waited for ten days for lab test results at the Shastri Nagar hospital with no update.,healthcare,medium
+Garbage has not been picked up in New Basti for a week.,sanitation,medium
+Voltage fluctuations in Silver Oaks have already damaged two of our appliances this month.,electricity,medium
+Doctors at the Subhash Nagar government hospital regularly don't show up on time.,healthcare,medium
+The ration shop in Old City is frequently closed or out of stock.,ration_aadhar,medium
+The helpline number for ration services in Shanti Nagar is always busy or unreachable.,ration_aadhar,medium
+Dustbins in Civil Lines are always overflowing and attracting pests.,sanitation,medium
+The tap water in Civil Lines is visibly contaminated and several people have fallen sick.,water_supply,high
+Water tankers in Shastri Nagar are not coming on time for 24 hours.,water_supply,medium
+The helpline number for ration services in Saraswati Vihar is always busy or unreachable.,ration_aadhar,medium
+Sewage water is overflowing into homes in Sector 9 and residents fear disease outbreak.,sanitation,high
+"The bridge near Subhash Nagar has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+"Our meter in Gandhi Nagar hasn't been read by anyone in months, billing seems estimated.",electricity,low
+"The water meter reading in Milan Vihar seems inconsistent, please verify.",water_supply,low
+"An electric pole has fallen on the road in Vivek Vihar and wires are exposed, someone could get electrocuted.",electricity,high
+"A dead animal has been lying near the Ram Nagar garbage dump for three days, causing severe health risk.",sanitation,high
+Would like an SMS alert system for water supply timings in Old City.,water_supply,low
+"A dead animal has been lying near the Sector 9 garbage dump for three days, causing severe health risk.",sanitation,high
+"My father is on oxygen support at home in Green Park and we've had no power for a week, this is a medical emergency.",electricity,high
+A pregnant woman in Rose Garden was refused admission at the government hospital despite being in labor.,healthcare,high
+"The bridge near New Basti has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+"The bridge near Green Park has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+Requesting an additional streetlight to be installed near the Subhash Nagar park.,electricity,low
+Water tankers have not come to Model Town for a week and households have run completely dry.,water_supply,high
+Mosquitoes and flies are increasing in Shanti Nagar due to poor cleanliness.,sanitation,medium
+Would like additional signage indicating speed limits in Civil Lines.,roads_transport,low
+Requesting a pedestrian crossing to be marked near the Shanti Nagar school.,roads_transport,low
+Minor delay in getting medical certificates issued at the Ashok Vihar health center.,healthcare,low
+There is no proper transport facility connecting Rajendra Nagar to the main city.,roads_transport,medium
+"Power cuts are happening every day in Shastri Nagar for two weeks now, disrupting work from home.",electricity,medium
+Requesting waste segregation bins to be introduced in Ashok Vihar.,sanitation,low
+Requesting an SMS update system for ration card status in Subhash Nagar.,ration_aadhar,low
+A major pipeline burst in Ram Nagar has flooded the street and cut off all water supply.,water_supply,high
+There is a strong smell in Rose Garden due to open drains that need cleaning.,sanitation,medium
+The ration shop in MG Road has been shut for several days and families here have no supplies left.,ration_aadhar,high
+"The transformer near Patel Nagar keeps tripping every few hours, causing repeated outages.",electricity,medium
+A major pipeline burst in Indira Colony has flooded the street and cut off all water supply.,water_supply,high
+"Children were playing near an open electric box in Old City with exposed wiring, please fix urgently.",electricity,high
+"An electric pole has fallen on the road in Saraswati Vihar and wires are exposed, someone could get electrocuted.",electricity,high
+Water tankers in Rose Garden are not coming on time for a week.,water_supply,medium
+"The electricity bill for Rajendra Nagar this month seems higher than usual, please review the meter reading.",electricity,low
+An elderly disabled person in Rajendra Nagar was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Vaccines have been out of stock at the Model Town primary health center for several days.,healthcare,medium
+"The electricity bill for Shanti Nagar this month seems higher than usual, please review the meter reading.",electricity,low
+"A deep pothole on the main road in MG Road caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+"An open manhole on the Nehru Colony road has already injured a pedestrian, needs immediate barricading.",roads_transport,high
+Minor delay in getting medical certificates issued at the Silver Oaks health center.,healthcare,low
+Cleanliness at the Lake View Colony government hospital has been very poor for several days.,healthcare,medium
+"Stray animals are roaming near the garbage dump in New Basti, please address it.",sanitation,medium
+The helpline number for ration services in MG Road is always busy or unreachable.,ration_aadhar,medium
+The seating arrangement at the Sun City ration office needs improvement.,ration_aadhar,low
+"A short circuit near the Subhash Nagar market has already caused one small fire, urgent action needed.",electricity,high
+"Minor spelling error on my ration card issued in Silver Oaks, need it corrected.",ration_aadhar,low
+Vaccines have been out of stock at the Nehru Colony primary health center for two days.,healthcare,medium
+"My father is on oxygen support at home in Shanti Nagar and we've had no power for a week, this is a medical emergency.",electricity,high
+The ration shop in Indira Colony is frequently closed or out of stock.,ration_aadhar,medium
+The roads in Rose Garden are full of potholes and have been dangerous for four days.,roads_transport,medium
+"A deep pothole on the main road in Gandhi Nagar caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+Requesting clearer signage at the Sector 5 Aadhar center for new visitors.,ration_aadhar,low
+"We cannot access any welfare scheme because Aadhar linking failed in Rajiv Nagar, and we urgently need medical aid.",ration_aadhar,high
+"Stray animals are roaming near the garbage dump in Rajiv Nagar, please address it.",sanitation,medium
+"Sewage appears to be mixing with drinking water in Vikas Puri, urgent testing needed.",water_supply,high
+The water supply in Krishna Colony has been irregular and unpredictable for 24 hours.,water_supply,medium
+Streetlights are out on the Nehru Colony highway stretch and there have been two accidents this week.,roads_transport,high
+The ration shop in Gandhi Nagar has been shut for a month and families here have no supplies left.,ration_aadhar,high
+My elderly mother in Silver Oaks has been denied her ration for two weeks and has no food at home.,ration_aadhar,high
+Minor delay in getting medical certificates issued at the Shanti Nagar health center.,healthcare,low
+Streetlights are out on the Ashok Vihar highway stretch and there have been two accidents this week.,roads_transport,high
+The ration shop in Gandhi Nagar has been shut for several days and families here have no supplies left.,ration_aadhar,high
+The ration shop in Shastri Nagar is frequently closed or out of stock.,ration_aadhar,medium
+My relative collapsed and the Vikas Puri clinic had no staff on duty to help.,healthcare,high
+Requesting a footpath extension along the Ward 12 market road.,roads_transport,low
+"Load shedding in Sun City happens without any prior notice, we can't plan our day.",electricity,medium
+"Minor fading of lane markings on the Model Town road, could be repainted.",roads_transport,low
+Requesting a footpath extension along the Nehru Colony market road.,roads_transport,low
+The hospital in Sector 5 sent us away without treatment even though it was a medical emergency.,healthcare,high
+Traffic lights at the Shanti Nagar junction have not worked properly for four days.,roads_transport,medium
+"The electricity bill for Nehru Colony this month seems higher than usual, please review the meter reading.",electricity,low
+There is no proper transport facility connecting Silver Oaks to the main city.,roads_transport,medium
+My elderly mother in Patel Nagar has been denied her ration for a month and has no food at home.,ration_aadhar,high
+"There has been no electricity in Sun City since over a week, please restore it soon.",electricity,medium
+Aadhar correction requests in Vikas Puri take several days with no proper guidance.,ration_aadhar,medium
+Traffic lights at the Sun City junction have not worked properly for ten days.,roads_transport,medium
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Shanti Nagar.",ration_aadhar,high
+My elderly mother in Lake View Colony has been denied her ration for several days and has no food at home.,ration_aadhar,high
+There is a visible water leakage on the street in Vikas Puri for a month.,water_supply,medium
+"The transformer near Vikas Puri keeps tripping every few hours, causing repeated outages.",electricity,medium
+"Sewage appears to be mixing with drinking water in Shastri Nagar, urgent testing needed.",water_supply,high
+"Despite repeated complaints, the water issue in Lake View Colony is not resolved.",water_supply,medium
+"A deep pothole on the main road in Sector 5 caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+"A short circuit near the Lake View Colony market has already caused one small fire, urgent action needed.",electricity,high
+Garbage has not been picked up in Sector 5 for two days.,sanitation,medium
+"A deep pothole on the main road in Milan Vihar caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+"Minor litter accumulation near the Rose Garden bus stop, needs occasional cleanup.",sanitation,low
+"The bridge near Old City has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+The sweeper has not visited Milan Vihar in 48 hours.,sanitation,medium
+The doctor on duty at the Shanti Nagar hospital has been absent for 24 hours during emergency hours.,healthcare,high
+"Streetlights in Milan Vihar have not worked for two weeks, making it unsafe to walk at night.",electricity,medium
+The public toilet in Subhash Nagar could use better maintenance.,sanitation,low
+Mosquitoes and flies are increasing in Sector 9 due to poor cleanliness.,sanitation,medium
+Requesting an additional dustbin to be placed near the Nehru Colony park.,sanitation,low
+The helpline number for ration services in Patel Nagar is always busy or unreachable.,ration_aadhar,medium
+Streetlights are out on the Milan Vihar highway stretch and there have been two accidents this week.,roads_transport,high
+"Stray animals are roaming near the garbage dump in Nehru Colony, please address it.",sanitation,medium
+The roads in Silver Oaks are full of potholes and have been dangerous for two days.,roads_transport,medium
+My elderly mother in Rose Garden has been denied her ration for three days and has no food at home.,ration_aadhar,high
+"My father is on oxygen support at home in Shastri Nagar and we've had no power for three days, this is a medical emergency.",electricity,high
+The Old City clinic pharmacy counter closes a bit early most days.,healthcare,low
+Sewage water is overflowing into homes in Sun City and residents fear disease outbreak.,sanitation,high
+"The electricity bill for Shastri Nagar this month seems higher than usual, please review the meter reading.",electricity,low
+Would like an online tracking option for Aadhar applications from Sector 9.,ration_aadhar,low
+"There is minor flickering of lights in Silver Oaks, not urgent but should be checked eventually.",electricity,low
+"Minor litter accumulation near the Lake View Colony bus stop, needs occasional cleanup.",sanitation,low
+"A short circuit near the Shastri Nagar market has already caused one small fire, urgent action needed.",electricity,high
+Dustbins in Indira Colony are always overflowing and attracting pests.,sanitation,medium
+There is a visible water leakage on the street in Sector 5 for a week.,water_supply,medium
+The Aadhar center staff in Sun City is rude and unhelpful to visitors.,ration_aadhar,medium
+The waiting area at the Saraswati Vihar hospital could use more seating and fans.,healthcare,low
+Could the Indira Colony ration office extend working hours by an hour?,ration_aadhar,low
+Requesting an SMS update system for ration card status in Shastri Nagar.,ration_aadhar,low
+Sewage water is overflowing into homes in Model Town and residents fear disease outbreak.,sanitation,high
+Road repair work in Nehru Colony was started 48 hours ago and never completed.,roads_transport,medium
+An elderly disabled person in Shanti Nagar was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+We waited for a month for lab test results at the Shanti Nagar hospital with no update.,healthcare,medium
+The tap water in Krishna Colony is muddy and smells bad.,water_supply,medium
+Our documents keep getting rejected at the Model Town Aadhar office without clear reasons.,ration_aadhar,medium
+The ration shop in Rajendra Nagar is frequently closed or out of stock.,ration_aadhar,medium
+The compost pit in Old City needs periodic monitoring.,sanitation,low
+"Children were playing near an open electric box in Nehru Colony with exposed wiring, please fix urgently.",electricity,high
+"The transformer near Saraswati Vihar keeps tripping every few hours, causing repeated outages.",electricity,medium
+There is no ambulance available in New Basti and a patient is in critical condition right now.,healthcare,high
+"There is a live wire hanging near the Silver Oaks school gate, please send someone immediately, it's extremely dangerous.",electricity,high
+Garbage has piled up at the Rajendra Nagar market for over a week and is now blocking the entrance.,sanitation,high
+"My father is on oxygen support at home in Ashok Vihar and we've had no power for five days, this is a medical emergency.",electricity,high
+Minor delay in getting medical certificates issued at the Old City health center.,healthcare,low
+Would like more information boards in local language at Shanti Nagar hospital.,healthcare,low
+"A short circuit near the Rajendra Nagar market has already caused one small fire, urgent action needed.",electricity,high
+Streetlights are out on the Shastri Nagar highway stretch and there have been two accidents this week.,roads_transport,high
+"There is a live wire hanging near the Subhash Nagar school gate, please send someone immediately, it's extremely dangerous.",electricity,high
+Requesting better signage for the water collection point in Model Town.,water_supply,low
+The sweeper has not visited MG Road in two days.,sanitation,medium
+There is no ambulance available in Saraswati Vihar and a patient is in critical condition right now.,healthcare,high
+Requesting a pedestrian crossing to be marked near the Sector 9 school.,roads_transport,low
+"A dead animal has been lying near the MG Road garbage dump for three days, causing severe health risk.",sanitation,high
+Would like an SMS alert system for water supply timings in Model Town.,water_supply,low
+"Minor leakage from a public tap in Civil Lines, not urgent but should be fixed.",water_supply,low
+A major pipeline burst in Sun City has flooded the street and cut off all water supply.,water_supply,high
+Would like additional signage indicating speed limits in Milan Vihar.,roads_transport,low
+Water tankers have not come to New Basti for four days and households have run completely dry.,water_supply,high
+Would like an online tracking option for Aadhar applications from Civil Lines.,ration_aadhar,low
+A major pipeline burst in Subhash Nagar has flooded the street and cut off all water supply.,water_supply,high
+Road repair work in Shanti Nagar was started a week ago and never completed.,roads_transport,medium
+There is no proper transport facility connecting Civil Lines to the main city.,roads_transport,medium
+"There has been no electricity in Sector 5 since five days, please restore it soon.",electricity,medium
+Could the Saraswati Vihar clinic display doctor availability timings more clearly?,healthcare,low
+Dustbins in Old City are always overflowing and attracting pests.,sanitation,medium
+Voltage fluctuations in Rajiv Nagar have already damaged two of our appliances this month.,electricity,medium
+Could the Indira Colony clinic display doctor availability timings more clearly?,healthcare,low
+Buses on the Ram Nagar route are always late and the stops are in poor condition.,roads_transport,medium
+The roads in Sun City are full of potholes and have been dangerous for two days.,roads_transport,medium
+"Children were playing near an open electric box in Shastri Nagar with exposed wiring, please fix urgently.",electricity,high
+My relative collapsed and the Model Town clinic had no staff on duty to help.,healthcare,high
+Would like more information boards in local language at Subhash Nagar hospital.,healthcare,low
+A pregnant woman in Ram Nagar was refused admission at the government hospital despite being in labor.,healthcare,high
+"Minor leakage from a public tap in New Basti, not urgent but should be fixed.",water_supply,low
+Dustbins in Gandhi Nagar are always overflowing and attracting pests.,sanitation,medium
+Could the Rajendra Nagar ration office extend working hours by an hour?,ration_aadhar,low
+My elderly mother in Indira Colony has been denied her ration for four days and has no food at home.,ration_aadhar,high
+The electricity office in Silver Oaks takes too long to respond to simple billing queries.,electricity,low
+The electricity office in Vivek Vihar takes too long to respond to simple billing queries.,electricity,low
+Buses on the Krishna Colony route are always late and the stops are in poor condition.,roads_transport,medium
+Requesting extended OPD hours at the Sector 9 clinic for working patients.,healthcare,low
+Requesting extended OPD hours at the Saraswati Vihar clinic for working patients.,healthcare,low
+Requesting a fixed weekly schedule for water supply timing in Civil Lines.,water_supply,low
+Would like additional signage indicating speed limits in New Basti.,roads_transport,low
+Water tankers have not come to Model Town for five days and households have run completely dry.,water_supply,high
+The tap water in Sector 5 is muddy and smells bad.,water_supply,medium
+The compost pit in Rajendra Nagar needs periodic monitoring.,sanitation,low
+Water tankers have not come to Subhash Nagar for three days and households have run completely dry.,water_supply,high
+"An open manhole on the Rajiv Nagar road has already injured a pedestrian, needs immediate barricading.",roads_transport,high
+Buses on the Shanti Nagar route are always late and the stops are in poor condition.,roads_transport,medium
+There is a strong smell in Subhash Nagar due to open drains that need cleaning.,sanitation,medium
+Could the Krishna Colony ration office extend working hours by an hour?,ration_aadhar,low
+Water pressure in Civil Lines is so low that we can't fill our tanks.,water_supply,medium
+The sweeper has not visited Krishna Colony in 24 hours.,sanitation,medium
+My elderly mother in Krishna Colony has been denied her ration for several days and has no food at home.,ration_aadhar,high
+"Minor fading of lane markings on the Krishna Colony road, could be repainted.",roads_transport,low
+There is a strong smell in Silver Oaks due to open drains that need cleaning.,sanitation,medium
+Aadhar correction requests in Ward 12 take a week with no proper guidance.,ration_aadhar,medium
+The transformer in Gandhi Nagar is sparking badly and residents fear it could catch fire.,electricity,high
+"The bridge near Patel Nagar has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+Water tankers in Nehru Colony are not coming on time for ten days.,water_supply,medium
+There is no ambulance available in Rajendra Nagar and a patient is in critical condition right now.,healthcare,high
+Requesting an additional dustbin to be placed near the Rajiv Nagar park.,sanitation,low
+"Stray animals are roaming near the garbage dump in Patel Nagar, please address it.",sanitation,medium
+There is no ambulance available in Subhash Nagar and a patient is in critical condition right now.,healthcare,high
+Requesting clearer signage at the Gandhi Nagar Aadhar center for new visitors.,ration_aadhar,low
+"An open manhole on the Sun City road has already injured a pedestrian, needs immediate barricading.",roads_transport,high
+Requesting an additional streetlight to be installed near the Saraswati Vihar park.,electricity,low
+"Stray animals are roaming near the garbage dump in MG Road, please address it.",sanitation,medium
+"A deep pothole on the main road in Green Park caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+Requesting an additional dustbin to be placed near the New Basti park.,sanitation,low
+Would like an SMS alert system for water supply timings in Vivek Vihar.,water_supply,low
+Water tankers have not come to New Basti for two weeks and households have run completely dry.,water_supply,high
+Requesting an SMS update system for ration card status in Patel Nagar.,ration_aadhar,low
+"Sewage appears to be mixing with drinking water in Model Town, urgent testing needed.",water_supply,high
+The electricity office in Saraswati Vihar takes too long to respond to simple billing queries.,electricity,low
+"The transformer near New Basti keeps tripping every few hours, causing repeated outages.",electricity,medium
+Contaminated water is mixing with the drainage near Shastri Nagar and children are falling sick.,sanitation,high
+"A short circuit near the Nehru Colony market has already caused one small fire, urgent action needed.",electricity,high
+Requesting waste segregation bins to be introduced in Indira Colony.,sanitation,low
+The seating arrangement at the Krishna Colony ration office needs improvement.,ration_aadhar,low
+A pregnant woman in Patel Nagar was refused admission at the government hospital despite being in labor.,healthcare,high
+Requesting an additional streetlight to be installed near the Rose Garden park.,electricity,low
+A broken road divider in Sun City is causing dangerous head-on near-misses daily.,roads_transport,high
+"The bridge near Lajpat Nagar has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+There is no proper medicine supply at the Rajendra Nagar clinic for 24 hours now.,healthcare,medium
+The electricity office in Old City takes too long to respond to simple billing queries.,electricity,low
+"There has been no electricity in Milan Vihar since five days, please restore it soon.",electricity,medium
+Our documents keep getting rejected at the Nehru Colony Aadhar office without clear reasons.,ration_aadhar,medium
+Buses on the Indira Colony route are always late and the stops are in poor condition.,roads_transport,medium
+Requesting an SMS update system for ration card status in Rajiv Nagar.,ration_aadhar,low
+Aadhar correction requests in Saraswati Vihar take two weeks with no proper guidance.,ration_aadhar,medium
+Dustbins in Vikas Puri are always overflowing and attracting pests.,sanitation,medium
+The oxygen supply at Rajendra Nagar primary health center has run out during an emergency.,healthcare,high
+The water supply in Saraswati Vihar has been irregular and unpredictable for over a week.,water_supply,medium
+There is a visible water leakage on the street in Shanti Nagar for four days.,water_supply,medium
+An elderly disabled person in Sun City was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+"Streetlights in Sector 9 have not worked for a week, making it unsafe to walk at night.",electricity,medium
+"A dead animal has been lying near the Vikas Puri garbage dump for three days, causing severe health risk.",sanitation,high
+A major pipeline burst in Lake View Colony has flooded the street and cut off all water supply.,water_supply,high
+A broken road divider in Indira Colony is causing dangerous head-on near-misses daily.,roads_transport,high
+"A deep pothole on the main road in Sector 9 caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+"Our meter in Shanti Nagar hasn't been read by anyone in months, billing seems estimated.",electricity,low
+Sewage water is overflowing into homes in Sector 5 and residents fear disease outbreak.,sanitation,high
+"My father is on oxygen support at home in Civil Lines and we've had no power for two weeks, this is a medical emergency.",electricity,high
+Could someone confirm the schedule for planned maintenance in Model Town this month?,electricity,low
+Requesting clearer signage at the Milan Vihar Aadhar center for new visitors.,ration_aadhar,low
+The doctor on duty at the Sun City hospital has been absent for a month during emergency hours.,healthcare,high
+Would like fogging to be scheduled in Patel Nagar as a preventive measure.,sanitation,low
+Requesting a fixed weekly schedule for water supply timing in Krishna Colony.,water_supply,low
+"The transformer near MG Road keeps tripping every few hours, causing repeated outages.",electricity,medium
+Water tankers have not come to Sector 9 for several days and households have run completely dry.,water_supply,high
+"Power cuts are happening every day in Shanti Nagar for over a week now, disrupting work from home.",electricity,medium
+Could the Shanti Nagar ration office extend working hours by an hour?,ration_aadhar,low
+"Power cuts are happening every day in Sun City for four days now, disrupting work from home.",electricity,medium
+Would like fogging to be scheduled in Gandhi Nagar as a preventive measure.,sanitation,low
+Requesting waste segregation bins to be introduced in Rose Garden.,sanitation,low
+Requesting a fixed weekly schedule for water supply timing in Ashok Vihar.,water_supply,low
+A major pipeline burst in Saraswati Vihar has flooded the street and cut off all water supply.,water_supply,high
+The water supply in MG Road has been irregular and unpredictable for over a week.,water_supply,medium
+Requesting a footpath extension along the Lake View Colony market road.,roads_transport,low
+There is no proper medicine supply at the Saraswati Vihar clinic for a week now.,healthcare,medium
+Streetlights are out on the Shanti Nagar highway stretch and there have been two accidents this week.,roads_transport,high
+"Despite repeated complaints, the water issue in Sun City is not resolved.",water_supply,medium
+"There is a live wire hanging near the Vikas Puri school gate, please send someone immediately, it's extremely dangerous.",electricity,high
+The ration shop in Vivek Vihar has been shut for over a week and families here have no supplies left.,ration_aadhar,high
+Garbage has piled up at the Ward 12 market for 48 hours and is now blocking the entrance.,sanitation,high
+Aadhar correction requests in Ward 12 take 24 hours with no proper guidance.,ration_aadhar,medium
+My relative collapsed and the New Basti clinic had no staff on duty to help.,healthcare,high
+Cleanliness at the Rajendra Nagar government hospital has been very poor for two weeks.,healthcare,medium
+"The electricity bill for MG Road this month seems higher than usual, please review the meter reading.",electricity,low
+Aadhar correction requests in MG Road take three days with no proper guidance.,ration_aadhar,medium
+There is no proper transport facility connecting Patel Nagar to the main city.,roads_transport,medium
+The waiting area at the Ward 12 hospital could use more seating and fans.,healthcare,low
+We waited for 24 hours for lab test results at the Sector 5 hospital with no update.,healthcare,medium
+"There has been no electricity in Vikas Puri since over a week, please restore it soon.",electricity,medium
+Would like more information boards in local language at Milan Vihar hospital.,healthcare,low
+Would like an SMS alert system for water supply timings in Sun City.,water_supply,low
+Would like an online tracking option for Aadhar applications from Vivek Vihar.,ration_aadhar,low
+Requesting waste segregation bins to be introduced in Sector 5.,sanitation,low
+Minor delay in getting medical certificates issued at the Vikas Puri health center.,healthcare,low
+Water pressure in Sun City is so low that we can't fill our tanks.,water_supply,medium
+The tap water in Nehru Colony is muddy and smells bad.,water_supply,medium
+An elderly disabled person in Ashok Vihar was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Would like an SMS alert system for water supply timings in MG Road.,water_supply,low
+"Our meter in Indira Colony hasn't been read by anyone in months, billing seems estimated.",electricity,low
+There is a strong smell in Krishna Colony due to open drains that need cleaning.,sanitation,medium
+There has been no water supply in Rajiv Nagar for a month and elderly residents are struggling badly.,water_supply,high
+Minor delay in getting medical certificates issued at the Rajendra Nagar health center.,healthcare,low
+Would like additional signage indicating speed limits in Old City.,roads_transport,low
+Would like an online tracking option for Aadhar applications from Shanti Nagar.,ration_aadhar,low
+The waiting area at the Milan Vihar hospital could use more seating and fans.,healthcare,low
+The public toilet in Patel Nagar could use better maintenance.,sanitation,low
+"A dead animal has been lying near the Green Park garbage dump for a month, causing severe health risk.",sanitation,high
+Garbage has not been picked up in Sun City for five days.,sanitation,medium
+We waited for a month for lab test results at the Nehru Colony hospital with no update.,healthcare,medium
+"Minor spelling error on my ration card issued in MG Road, need it corrected.",ration_aadhar,low
+Doctors at the Rajiv Nagar government hospital regularly don't show up on time.,healthcare,medium
+Requesting extended OPD hours at the Nehru Colony clinic for working patients.,healthcare,low
+"Minor spelling error on my ration card issued in Ward 12, need it corrected.",ration_aadhar,low
+The Aadhar center staff in New Basti is rude and unhelpful to visitors.,ration_aadhar,medium
+"Children were playing near an open electric box in Rose Garden with exposed wiring, please fix urgently.",electricity,high
+Auto rickshaws in Old City overcharge passengers and no action is taken.,roads_transport,medium
+Water tankers have not come to Patel Nagar for several days and households have run completely dry.,water_supply,high
+Requesting a fixed weekly schedule for water supply timing in Green Park.,water_supply,low
+Water pressure in New Basti is so low that we can't fill our tanks.,water_supply,medium
+The waiting area at the Rajiv Nagar hospital could use more seating and fans.,healthcare,low
+Minor delay in getting medical certificates issued at the Shastri Nagar health center.,healthcare,low
+The compost pit in Sun City needs periodic monitoring.,sanitation,low
+Requesting a fixed weekly schedule for water supply timing in Sector 5.,water_supply,low
+"The bridge near Civil Lines has visible cracks and vehicles are still using it, please inspect immediately.",roads_transport,high
+Requesting a pedestrian crossing to be marked near the Nehru Colony school.,roads_transport,low
+The public transport schedule for Shastri Nagar route is not displayed clearly.,roads_transport,low
+Voltage fluctuations in Rajendra Nagar have already damaged two of our appliances this month.,electricity,medium
+My relative collapsed and the Patel Nagar clinic had no staff on duty to help.,healthcare,high
+"A dead animal has been lying near the Vivek Vihar garbage dump for ten days, causing severe health risk.",sanitation,high
+Road repair work in Shanti Nagar was started a month ago and never completed.,roads_transport,medium
+My relative collapsed and the Milan Vihar clinic had no staff on duty to help.,healthcare,high
+An elderly disabled person in Ram Nagar was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Cleanliness at the Ashok Vihar government hospital has been very poor for a month.,healthcare,medium
+I applied for a ration card in Indira Colony ten days ago and haven't received any response.,ration_aadhar,medium
+"Streetlights in Lake View Colony have not worked for ten days, making it unsafe to walk at night.",electricity,medium
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Ashok Vihar.",ration_aadhar,high
+"Minor spelling error on my ration card issued in Shastri Nagar, need it corrected.",ration_aadhar,low
+"Despite repeated complaints, the water issue in Vikas Puri is not resolved.",water_supply,medium
+Water pressure in Rajiv Nagar is so low that we can't fill our tanks.,water_supply,medium
+Sewage water is overflowing into homes in Rajendra Nagar and residents fear disease outbreak.,sanitation,high
+Contaminated water is mixing with the drainage near Ashok Vihar and children are falling sick.,sanitation,high
+The bus stop shelter in Vivek Vihar could use a fresh coat of paint.,roads_transport,low
+My relative collapsed and the Nehru Colony clinic had no staff on duty to help.,healthcare,high
+Would like information on the next water tanker visit to Rajiv Nagar.,water_supply,low
+Aadhar correction requests in Patel Nagar take a week with no proper guidance.,ration_aadhar,medium
+"Load shedding in MG Road happens without any prior notice, we can't plan our day.",electricity,medium
+Buses on the Green Park route are always late and the stops are in poor condition.,roads_transport,medium
+Requesting a footpath extension along the Silver Oaks market road.,roads_transport,low
+I applied for a ration card in New Basti a week ago and haven't received any response.,ration_aadhar,medium
+The bus stop shelter in Ashok Vihar could use a fresh coat of paint.,roads_transport,low
+"Streetlights in Lajpat Nagar have not worked for a week, making it unsafe to walk at night.",electricity,medium
+The transformer in Shanti Nagar is sparking badly and residents fear it could catch fire.,electricity,high
+Requesting an additional dustbin to be placed near the Old City park.,sanitation,low
+"Children were playing near an open electric box in Saraswati Vihar with exposed wiring, please fix urgently.",electricity,high
+Requesting waste segregation bins to be introduced in Vikas Puri.,sanitation,low
+There has been no water supply in Sector 5 for five days and elderly residents are struggling badly.,water_supply,high
+The doctor on duty at the Vivek Vihar hospital has been absent for 48 hours during emergency hours.,healthcare,high
+The waiting area at the Silver Oaks hospital could use more seating and fans.,healthcare,low
+"There has been no electricity in Subhash Nagar since several days, please restore it soon.",electricity,medium
+"My father is on oxygen support at home in Rajiv Nagar and we've had no power for three days, this is a medical emergency.",electricity,high
+Requesting an SMS update system for ration card status in Gandhi Nagar.,ration_aadhar,low
+Traffic lights at the Vivek Vihar junction have not worked properly for ten days.,roads_transport,medium
+"We cannot access any welfare scheme because Aadhar linking failed in Indira Colony, and we urgently need medical aid.",ration_aadhar,high
+Requesting a footpath extension along the Indira Colony market road.,roads_transport,low
+I applied for a ration card in Sector 9 48 hours ago and haven't received any response.,ration_aadhar,medium
+There is a visible water leakage on the street in Lajpat Nagar for several days.,water_supply,medium
+The bus stop shelter in Old City could use a fresh coat of paint.,roads_transport,low
+Vaccines have been out of stock at the Sector 9 primary health center for a month.,healthcare,medium
+Vaccines have been out of stock at the New Basti primary health center for four days.,healthcare,medium
+"My father is on oxygen support at home in Sector 5 and we've had no power for two days, this is a medical emergency.",electricity,high
+Would like an SMS alert system for water supply timings in Ram Nagar.,water_supply,low
+"Our entire family's Aadhar was rejected right before a job deadline, we need urgent correction in Gandhi Nagar.",ration_aadhar,high
+"A deep pothole on the main road in Saraswati Vihar caused a serious accident yesterday, needs urgent repair.",roads_transport,high
+"Our meter in Ward 12 hasn't been read by anyone in months, billing seems estimated.",electricity,low
+Garbage has piled up at the Sector 9 market for four days and is now blocking the entrance.,sanitation,high
+Contaminated water is mixing with the drainage near Vivek Vihar and children are falling sick.,sanitation,high
+Road repair work in Ward 12 was started a month ago and never completed.,roads_transport,medium
+Auto rickshaws in Gandhi Nagar overcharge passengers and no action is taken.,roads_transport,medium
+The tap water in Silver Oaks is visibly contaminated and several people have fallen sick.,water_supply,high
+The seating arrangement at the Green Park ration office needs improvement.,ration_aadhar,low
+Water pressure in Subhash Nagar is so low that we can't fill our tanks.,water_supply,medium
+"We cannot access any welfare scheme because Aadhar linking failed in New Basti, and we urgently need medical aid.",ration_aadhar,high
+Water pressure in Green Park is so low that we can't fill our tanks.,water_supply,medium
+There is a strong smell in Nehru Colony due to open drains that need cleaning.,sanitation,medium
+"Minor litter accumulation near the Lajpat Nagar bus stop, needs occasional cleanup.",sanitation,low
+Doctors at the Sector 9 government hospital regularly don't show up on time.,healthcare,medium
+There is no proper medicine supply at the Lake View Colony clinic for a month now.,healthcare,medium
+The ration shop in Ward 12 is frequently closed or out of stock.,ration_aadhar,medium
+The public transport schedule for Sector 9 route is not displayed clearly.,roads_transport,low
+"We cannot access any welfare scheme because Aadhar linking failed in Lake View Colony, and we urgently need medical aid.",ration_aadhar,high
+There is a strong smell in Shastri Nagar due to open drains that need cleaning.,sanitation,medium
+Would like information on the next water tanker visit to Lajpat Nagar.,water_supply,low
+Requesting an SMS update system for ration card status in MG Road.,ration_aadhar,low
+Could the Vivek Vihar clinic display doctor availability timings more clearly?,healthcare,low
+The waiting area at the Lajpat Nagar hospital could use more seating and fans.,healthcare,low
+"Sewage appears to be mixing with drinking water in Old City, urgent testing needed.",water_supply,high
+My relative collapsed and the Lake View Colony clinic had no staff on duty to help.,healthcare,high
+An elderly disabled person in Milan Vihar was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Garbage has not been picked up in Rajiv Nagar for two days.,sanitation,medium
+Requesting better signage for the water collection point in Milan Vihar.,water_supply,low
+Water tankers in Rajendra Nagar are not coming on time for over a week.,water_supply,medium
+"An electric pole has fallen on the road in Sun City and wires are exposed, someone could get electrocuted.",electricity,high
+"Children were playing near an open electric box in Civil Lines with exposed wiring, please fix urgently.",electricity,high
+The compost pit in Sector 5 needs periodic monitoring.,sanitation,low
+There is no proper transport facility connecting Krishna Colony to the main city.,roads_transport,medium
+Requesting clearer signage at the Vikas Puri Aadhar center for new visitors.,ration_aadhar,low
+Garbage has piled up at the Sector 9 market for over a week and is now blocking the entrance.,sanitation,high
+My elderly mother in Green Park has been denied her ration for three days and has no food at home.,ration_aadhar,high
+"Power cuts are happening every day in Sun City for five days now, disrupting work from home.",electricity,medium
+I applied for a ration card in Ashok Vihar four days ago and haven't received any response.,ration_aadhar,medium
+Auto rickshaws in Shanti Nagar overcharge passengers and no action is taken.,roads_transport,medium
+Vaccines have been out of stock at the Ward 12 primary health center for 24 hours.,healthcare,medium
+We waited for 24 hours for lab test results at the Shanti Nagar hospital with no update.,healthcare,medium
+Would like additional signage indicating speed limits in Lake View Colony.,roads_transport,low
+Requesting an additional streetlight to be installed near the Model Town park.,electricity,low
+Requesting an additional streetlight to be installed near the Civil Lines park.,electricity,low
+An elderly disabled person in Ward 12 was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+Requesting a pedestrian crossing to be marked near the Indira Colony school.,roads_transport,low
+My relative collapsed and the Indira Colony clinic had no staff on duty to help.,healthcare,high
+Could the Sector 9 ration office extend working hours by an hour?,ration_aadhar,low
+"Minor leakage from a public tap in Vikas Puri, not urgent but should be fixed.",water_supply,low
+"There is minor flickering of lights in Sun City, not urgent but should be checked eventually.",electricity,low
+"Power cuts are happening every day in Civil Lines for over a week now, disrupting work from home.",electricity,medium
+Water tankers in MG Road are not coming on time for a week.,water_supply,medium
+An elderly disabled person in Shastri Nagar was turned away from biometric verification despite being unable to stand in line.,ration_aadhar,high
+"Our meter in Subhash Nagar hasn't been read by anyone in months, billing seems estimated.",electricity,low
+A major pipeline burst in Ashok Vihar has flooded the street and cut off all water supply.,water_supply,high
+"The transformer near Model Town keeps tripping every few hours, causing repeated outages.",electricity,medium
+Could the Ashok Vihar clinic display doctor availability timings more clearly?,healthcare,low
+The tap water in Milan Vihar is visibly contaminated and several people have fallen sick.,water_supply,high
+Road repair work in Nehru Colony was started two days ago and never completed.,roads_transport,medium
+Could the Sector 9 clinic display doctor availability timings more clearly?,healthcare,low
+"An electric pole has fallen on the road in Sector 9 and wires are exposed, someone could get electrocuted.",electricity,high
+There is no ambulance available in Milan Vihar and a patient is in critical condition right now.,healthcare,high
+The tap water in Ram Nagar is visibly contaminated and several people have fallen sick.,water_supply,high
